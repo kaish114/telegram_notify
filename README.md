@@ -5,7 +5,7 @@ A simple Python package for sending notifications via Telegram.
 ## Installation
 
 ```bash
-pip install telegram-notify
+pip install git+https://github.com/kaish114/telegram_notify.git
 ```
 
 Or install from source:
