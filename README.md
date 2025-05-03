@@ -11,7 +11,7 @@ pip install git+https://github.com/kaish114/telegram_notify.git
 Or install from source:
 
 ```bash
-git clone https://github.com/yourusername/telegram-notify.git
+git clone https://github.com/kaish114/telegram_notify.git
 cd telegram-notify
 pip install -e .
 ```
